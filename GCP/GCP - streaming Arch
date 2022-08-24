@@ -1,1 +1,357 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T14:17:50.864Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.7" etag="-dXhSQZZeSeA_q1zibqG" type="github"><diagram id="bjopbp6OSh3LeFaAjTNK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-24T14:20:58.061Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="04HN3rzpVTRyQQSsUinK" version="20.2.7" type="github">
+  <diagram id="bjopbp6OSh3LeFaAjTNK" name="Page-1">
+    <mxGraphModel dx="1183" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="" lucidchartObjectId="MgTKeK0G6EBb" id="lszPFhmbyad96m_15ap3-17">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fffdf9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="1220" y="210" width="185" height="503" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="External BI tools" lucidchartObjectId="MgTK4VlZpZ_F" id="lszPFhmbyad96m_15ap3-18">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fffdf9;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-17">
+            <mxGeometry width="124" height="43" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lszPFhmbyad96m_15ap3-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="309.01" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lszPFhmbyad96m_15ap3-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=none;" edge="1" parent="1" source="lszPFhmbyad96m_15ap3-46" target="lszPFhmbyad96m_15ap3-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="433.5" as="sourcePoint" />
+            <mxPoint x="410" y="433.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lszPFhmbyad96m_15ap3-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeColor=none;fillColor=#FBFFF7;" vertex="1" parent="1">
+          <mxGeometry x="352" y="220" width="750" height="345" as="geometry" />
+        </mxCell>
+        <mxCell id="lszPFhmbyad96m_15ap3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.531;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="lszPFhmbyad96m_15ap3-56" target="lszPFhmbyad96m_15ap3-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lszPFhmbyad96m_15ap3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;startArrow=none;" edge="1" parent="1" source="lszPFhmbyad96m_15ap3-24" target="lszPFhmbyad96m_15ap3-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lszPFhmbyad96m_15ap3-24" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vpn_connection;" vertex="1" parent="1">
+          <mxGeometry x="352" y="424" width="16.15" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="lszPFhmbyad96m_15ap3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="lszPFhmbyad96m_15ap3-62" target="lszPFhmbyad96m_15ap3-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lszPFhmbyad96m_15ap3-26" value="" style="group;dropTarget=0;pointerEvents=0;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="612" width="142" height="87" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="zfTKpcjjlS3i" id="lszPFhmbyad96m_15ap3-27">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#edf5ff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-26">
+            <mxGeometry width="142" height="87" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="zfTKvBsSQY-U" id="lszPFhmbyad96m_15ap3-28">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-26">
+            <mxGeometry x="6" y="30" width="119" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="zfTKvtk_RMlX" id="lszPFhmbyad96m_15ap3-29">
+          <mxCell style="overflow=block;blockSpacing=1;whiteSpace=wrap;html=1;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.gcp2.logging;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#4285f4;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-26">
+            <mxGeometry x="9" y="36" width="36" height="32" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot;&gt;IAM&lt;/font&gt;" lucidchartObjectId="zfTKmHk3AsJZ" id="lszPFhmbyad96m_15ap3-30">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;" vertex="1" parent="lszPFhmbyad96m_15ap3-26">
+            <mxGeometry x="51" y="42" width="62" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IAM" lucidchartObjectId="zfTKMRl-oRxB" id="lszPFhmbyad96m_15ap3-31">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-26">
+            <mxGeometry x="6" y="7" width="118" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IAM" lucidchartObjectId="zfTKMRl-oRxB" id="lszPFhmbyad96m_15ap3-32">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="716" y="619" width="118" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="oQRKyaQXgqx." id="lszPFhmbyad96m_15ap3-33">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.877;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="lszPFhmbyad96m_15ap3-54" target="lszPFhmbyad96m_15ap3-56">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="wQRK1S.QGPc2" id="lszPFhmbyad96m_15ap3-34">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.877;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="lszPFhmbyad96m_15ap3-54" target="lszPFhmbyad96m_15ap3-62">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="DVRK5~zMhPXh" id="lszPFhmbyad96m_15ap3-35">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="lszPFhmbyad96m_15ap3-62" target="lszPFhmbyad96m_15ap3-68">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="lszPFhmbyad96m_15ap3-36" value="" style="group;dropTarget=0;pointerEvents=0;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="105" width="840" height="705" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="T0QKh626BcRN" id="lszPFhmbyad96m_15ap3-37">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-36">
+            <mxGeometry width="840" height="750" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lszPFhmbyad96m_15ap3-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#E6E6E6;fillColor=#E6E6E6;" vertex="1" parent="lszPFhmbyad96m_15ap3-37">
+          <mxGeometry x="24" y="479" width="756" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="lszPFhmbyad96m_15ap3-39" value="Region" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="lszPFhmbyad96m_15ap3-37">
+          <mxGeometry x="24" y="115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="zfTKpcjjlS3i" id="lszPFhmbyad96m_15ap3-40">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#edf5ff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-37">
+            <mxGeometry x="526" y="497" width="142" height="87" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Data Quality" lucidchartObjectId="zfTKMRl-oRxB" id="lszPFhmbyad96m_15ap3-41">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-40">
+            <mxGeometry x="4" y="6" width="118" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="zfTKvBsSQY-U" id="lszPFhmbyad96m_15ap3-42">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-40">
+            <mxGeometry x="7" y="31" width="119" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lszPFhmbyad96m_15ap3-43" value="VPC" style="rounded=1;arcSize=10;verticalAlign=bottom;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;spacing=0;strokeColor=#006600;fillOpacity=0;fillColor=#000000;strokeWidth=0.8;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;html=1;" vertex="1" parent="lszPFhmbyad96m_15ap3-36">
+          <mxGeometry x="30" y="202" width="270" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="lszPFhmbyad96m_15ap3-44" value="" style="shape=mxgraph.aws3.permissions;fillColor=#D9A741;" vertex="1" parent="lszPFhmbyad96m_15ap3-43">
+          <mxGeometry x="20" y="-20" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="lszPFhmbyad96m_15ap3-45" value="" style="group;dropTarget=0;pointerEvents=0;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="26" y="176" width="240" height="556" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="_3QKMS_qMo4X" id="lszPFhmbyad96m_15ap3-46">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fbf5f9;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-45">
+            <mxGeometry x="-1" y="-20" width="240" height="555" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="piRKFa7SB0Bi" id="lszPFhmbyad96m_15ap3-47">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=0;strokeWidth=0;image=https://images.lucid.app/images/d974936c-b0ea-457e-94f8-3734fdcfb09f/content;imageAspect=0;" vertex="1" parent="lszPFhmbyad96m_15ap3-45">
+            <mxGeometry x="65" y="211" width="110" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="On premise Data centre " lucidchartObjectId="HiRKEZNtOTrV" id="lszPFhmbyad96m_15ap3-48">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fbf5f9;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-45">
+            <mxGeometry width="180" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lszPFhmbyad96m_15ap3-49" value="" style="group;dropTarget=0;pointerEvents=0;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="386" width="132" height="97" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="zERKsXz34CTc" id="lszPFhmbyad96m_15ap3-50">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#edf5ff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-49">
+            <mxGeometry width="132" height="95" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="_xRKjeLF2-ZE" id="lszPFhmbyad96m_15ap3-51">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-49">
+            <mxGeometry x="8" y="37" width="116" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="CxRK_Wvp5_a3" id="lszPFhmbyad96m_15ap3-52">
+          <mxCell style="overflow=block;blockSpacing=1;whiteSpace=wrap;html=1;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.gcp2.cloud_dataflow;fontSize=13;spacing=0;fillOpacity=100;fillColor=#0E62C2;strokeWidth=1.5;strokeColor=none;" vertex="1" parent="lszPFhmbyad96m_15ap3-49">
+            <mxGeometry x="11" y="42" width="42" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot;&gt;Cloud &lt;br&gt;Dataflow&lt;/font&gt;" lucidchartObjectId="YyRKiSQhVaDe" id="lszPFhmbyad96m_15ap3-53">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontFamily=Roboto;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;" vertex="1" parent="lszPFhmbyad96m_15ap3-49">
+            <mxGeometry x="56" y="43" width="75" height="54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Pipeline" lucidchartObjectId="xFRKZr~66jFr" id="lszPFhmbyad96m_15ap3-54">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-49">
+            <mxGeometry x="6" y="12" width="120" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lszPFhmbyad96m_15ap3-55" value="" style="group;dropTarget=0;pointerEvents=0;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="684" y="307" width="139" height="107" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="uHRKWmZ4jKmT" id="lszPFhmbyad96m_15ap3-56">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#edf5ff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-55">
+            <mxGeometry width="139" height="107" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="uHRKTsUeALML" id="lszPFhmbyad96m_15ap3-57">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-55">
+            <mxGeometry x="8" y="29" width="120" height="61" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="WIRKLCyYiqb~" id="lszPFhmbyad96m_15ap3-58">
+          <mxCell style="overflow=block;blockSpacing=1;whiteSpace=wrap;html=1;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.gcp2.cloud_storage;fontSize=13;spacing=0;fillOpacity=100;fillColor=#0E62C2;strokeWidth=1.5;strokeColor=none;" vertex="1" parent="lszPFhmbyad96m_15ap3-57">
+            <mxGeometry x="8" y="13" width="41" height="38" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot;&gt;Cloud Storage&lt;/font&gt;" lucidchartObjectId="uHRKVT6.3Ijq" id="lszPFhmbyad96m_15ap3-59">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontFamily=Roboto;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;" vertex="1" parent="lszPFhmbyad96m_15ap3-55">
+            <mxGeometry x="69" y="41" width="60" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Storage" lucidchartObjectId="uHRKImsirOd-" id="lszPFhmbyad96m_15ap3-60">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-55">
+            <mxGeometry x="6" y="3" width="128" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lszPFhmbyad96m_15ap3-61" value="" style="group;dropTarget=0;pointerEvents=0;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="684" y="444" width="131" height="78" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="RJRK3fz56gZc" id="lszPFhmbyad96m_15ap3-62">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#edf5ff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-61">
+            <mxGeometry width="131" height="78" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="RJRK.llVBCno" id="lszPFhmbyad96m_15ap3-63">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-61">
+            <mxGeometry x="6" y="30" width="119" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot;&gt;BigQuery&lt;/font&gt;" lucidchartObjectId="RJRKlsvn2cRA" id="lszPFhmbyad96m_15ap3-64">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;" vertex="1" parent="lszPFhmbyad96m_15ap3-61">
+            <mxGeometry x="51" y="43" width="62" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Analytics" lucidchartObjectId="RJRKDdP3175b" id="lszPFhmbyad96m_15ap3-65">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-61">
+            <mxGeometry x="6" y="1" width="100" height="29" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="AKRKIUkBA..Q" id="lszPFhmbyad96m_15ap3-66">
+          <mxCell style="overflow=block;blockSpacing=1;whiteSpace=wrap;html=1;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.gcp2.bigquery;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#4285f4;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-61">
+            <mxGeometry x="12" y="36" width="37" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lszPFhmbyad96m_15ap3-67" value="" style="group;dropTarget=0;pointerEvents=0;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="310" width="104" height="78" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="XQRKyuKxbqD2" id="lszPFhmbyad96m_15ap3-68">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#edf5ff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-67">
+            <mxGeometry width="104" height="78" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="XQRKC3d-kJ.Y" id="lszPFhmbyad96m_15ap3-69">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-67">
+            <mxGeometry x="8" y="29" width="91" height="43" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="WQRK5IdkGiOZ" id="lszPFhmbyad96m_15ap3-70">
+          <mxCell style="overflow=block;blockSpacing=1;whiteSpace=wrap;html=1;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.gcp2.data_studio;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#4285f4;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-67">
+            <mxGeometry x="11" y="32" width="39" height="35" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot;&gt;Data Studio&lt;/font&gt;" lucidchartObjectId="XQRKK.yx-dAR" id="lszPFhmbyad96m_15ap3-71">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;" vertex="1" parent="lszPFhmbyad96m_15ap3-67">
+            <mxGeometry x="53" y="32" width="46" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Visualisation" lucidchartObjectId="XQRKC0sQKhEB" id="lszPFhmbyad96m_15ap3-72">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-67">
+            <mxGeometry x="5" y="6" width="93" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lszPFhmbyad96m_15ap3-73" value="" style="group;dropTarget=0;pointerEvents=0;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="600" width="279" height="145" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="A_SKU8sQ8Wyx" id="lszPFhmbyad96m_15ap3-74">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#edf5ff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-73">
+            <mxGeometry width="279" height="145" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="A_SK9C~rA4-S" id="lszPFhmbyad96m_15ap3-75">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-73">
+            <mxGeometry x="6" y="30" width="119" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="IbTKfifdvpdf" id="lszPFhmbyad96m_15ap3-76">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-73">
+            <mxGeometry x="142" y="30" width="119" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot;&gt;Stackdriver&lt;/font&gt;" lucidchartObjectId="RbTK~T5Mzrcb" id="lszPFhmbyad96m_15ap3-77">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;" vertex="1" parent="lszPFhmbyad96m_15ap3-76">
+            <mxGeometry x="44" y="12" width="62" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="eeTKGZ5Zr-8w" id="lszPFhmbyad96m_15ap3-78">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-73">
+            <mxGeometry x="6" y="83" width="119" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="y_SK0189Q-NZ" id="lszPFhmbyad96m_15ap3-79">
+          <mxCell style="overflow=block;blockSpacing=1;whiteSpace=wrap;html=1;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.gcp2.logging;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#4285f4;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-73">
+            <mxGeometry x="9" y="35" width="36" height="32" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot;&gt;Logging&lt;/font&gt;" lucidchartObjectId="A_SKsUigAVLH" id="lszPFhmbyad96m_15ap3-80">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;" vertex="1" parent="lszPFhmbyad96m_15ap3-73">
+            <mxGeometry x="51" y="41" width="62" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Logging &amp; Monitoring" lucidchartObjectId="A_SK9K8tNiAS" id="lszPFhmbyad96m_15ap3-81">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-73">
+            <mxGeometry x="6" y="6" width="159" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="ubTKlT7CldKe" id="lszPFhmbyad96m_15ap3-82">
+          <mxCell style="overflow=block;blockSpacing=1;whiteSpace=wrap;html=1;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.gcp2.stackdriver;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#4285f4;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-73">
+            <mxGeometry x="145" y="35" width="40" height="35" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="_dTK7dWP-Zgw" id="lszPFhmbyad96m_15ap3-83">
+          <mxCell style="overflow=block;blockSpacing=1;whiteSpace=wrap;html=1;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.gcp2.cloud_deployment_manager;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#4285f4;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-73">
+            <mxGeometry x="7" y="88" width="39" height="34" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot;&gt;Monitoring&lt;/font&gt;" lucidchartObjectId="4eTKnIYOym75" id="lszPFhmbyad96m_15ap3-84">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;" vertex="1" parent="lszPFhmbyad96m_15ap3-73">
+            <mxGeometry x="51" y="94" width="62" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lszPFhmbyad96m_15ap3-85" value="" style="group;dropTarget=0;pointerEvents=0;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="602" width="142" height="87" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="zfTKpcjjlS3i" id="lszPFhmbyad96m_15ap3-86">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#edf5ff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-85">
+            <mxGeometry width="142" height="87" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="zfTKvBsSQY-U" id="lszPFhmbyad96m_15ap3-87">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-85">
+            <mxGeometry x="6" y="30" width="119" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="zfTKvtk_RMlX" id="lszPFhmbyad96m_15ap3-88">
+          <mxCell style="overflow=block;blockSpacing=1;whiteSpace=wrap;html=1;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.gcp2.logging;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;fillColor=#4285f4;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-85">
+            <mxGeometry x="9" y="36" width="36" height="32" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot;&gt;IAM&lt;/font&gt;" lucidchartObjectId="zfTKmHk3AsJZ" id="lszPFhmbyad96m_15ap3-89">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;" vertex="1" parent="lszPFhmbyad96m_15ap3-85">
+            <mxGeometry x="51" y="42" width="62" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IAM" lucidchartObjectId="zfTKMRl-oRxB" id="lszPFhmbyad96m_15ap3-90">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-85">
+            <mxGeometry x="6" y="7" width="118" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lszPFhmbyad96m_15ap3-91" value="" style="group;dropTarget=0;pointerEvents=0;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="211" width="165" height="504" as="geometry" />
+        </mxCell>
+        <UserObject label="Tableau" lucidchartObjectId="UhTKGojg-e8I" id="lszPFhmbyad96m_15ap3-92">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fffdf9;strokeWidth=0.8;" vertex="1" parent="lszPFhmbyad96m_15ap3-91">
+            <mxGeometry x="31" y="182" width="52" height="43" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
